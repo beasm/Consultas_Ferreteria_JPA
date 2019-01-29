@@ -11,7 +11,7 @@
 			<property name="javax.persistence.jdbc.user" value="bea"/>
 			<property name="javax.persistence.jdbc.password" value="bea"/>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-			<property name="eclipselink.logging.level" value="FINE"/>
+			<!-- <property name="eclipselink.logging.level" value="FINE"/> -->
 		</properties>
 	</persistence-unit>
 </persistence>
